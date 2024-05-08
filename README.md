@@ -35,3 +35,7 @@ SLE-associated epitopes has not been fully leveraged by traditional ML-based met
 └── RELSO
     └── ReLSO (full).ipynb
 ```
+
+## Acknowledgement
+
+This project was prepared as a part of the course CB&B 633/ CPSC 552 'Deep Learning Theory and Applications' at Yale.
